@@ -14,6 +14,7 @@
 - **RabbitMQ**
 
 ## ☁️ Cloud
+- **Azure**
 
 ## 🛠️ Ferramentas e Práticas
 - **Microsserviços** • **Jenkins** (CI/CD) • **Clean Architecture** • **Princípios SOLID** • **Arquitetura Hexagonal**
