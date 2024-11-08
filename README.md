@@ -2,32 +2,19 @@
 # 👋 Seja Bem - Vindo! 
 
 ## 🚀 Linguagens de Programação
-- **Kotlin**
-- **JavaScript**
-- **Java**
-- **Python**
+- **Kotlin** • **JavaScript** • **Java** • **Python**
 
 ## 🗄️ Bancos de Dados
-- **SQL**
-- **MySQL**
-- **NoSQL**
-- **PostgreSQL**
-- **Redis** *(utilizo como armazenamento de dados e cache)*
+- **SQL** • **MySQL** • **NoSQL** • **PostgreSQL** • **Redis** *(utilizo como armazenamento de dados e cache)*
 
 ## 🧪 Testes
-- **JUnit5**
-- **Testes Unitários e de Integração**
-- **Test-Driven Development (TDD)**
+- **JUnit5** • **Testes Unitários e de Integração** • **Test-Driven Development (TDD)**
 
 ## 📩 Mensageria
 - **RabbitMQ**
 
 ## 🛠️ Ferramentas e Práticas
-- **Microsserviços**
-- **Jenkins** (CI/CD)
-- **Clean Architecture**
-- **Princípios SOLID**
-- **Arquitetura Hexagonal**
+- **Microsserviços** • **Jenkins** (CI/CD) • **Clean Architecture** • **Princípios SOLID** • **Arquitetura Hexagonal**
 
 <!---
 odiegosilva/odiegosilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
