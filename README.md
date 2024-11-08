@@ -1,5 +1,5 @@
 - 👋 Seja Bem - Vindo! 
-  -Explorador do universo de Tecnologia! 
+- teste
 
 <!---
 odiegosilva/odiegosilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
