@@ -10,7 +10,7 @@
 ## 🧪 Testes
 - **JUnit5** • **Testes Unitários e de Integração** • **Test-Driven Development (TDD)**
 
-## 📩 Mensageria ☁️
+## 📩 Mensageria
 - **RabbitMQ**
 
 ## ☁️ Cloud
