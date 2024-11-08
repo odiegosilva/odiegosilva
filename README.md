@@ -10,8 +10,10 @@
 ## 🧪 Testes
 - **JUnit5** • **Testes Unitários e de Integração** • **Test-Driven Development (TDD)**
 
-## 📩 Mensageria
+## 📩 Mensageria ☁️
 - **RabbitMQ**
+
+## ☁️ Cloud
 
 ## 🛠️ Ferramentas e Práticas
 - **Microsserviços** • **Jenkins** (CI/CD) • **Clean Architecture** • **Princípios SOLID** • **Arquitetura Hexagonal**
